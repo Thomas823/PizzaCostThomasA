@@ -1,0 +1,10 @@
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\bin\Debug\PizzaCostThomasA.exe.config
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\bin\Debug\PizzaCostThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\bin\Debug\PizzaCostThomasA.pdb
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.frmPizzaCost.resources
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.pdb
+C:\Users\Thomas\Desktop\Programming\Unit 1\PizzaCostThomasA\PizzaCostThomasA\obj\Debug\PizzaCostThomasA.csprojResolveAssemblyReference.cache
